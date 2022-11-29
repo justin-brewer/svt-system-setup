@@ -1,0 +1,10 @@
+{
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "workbench.colorTheme": "Monokai Night"
+}
+
